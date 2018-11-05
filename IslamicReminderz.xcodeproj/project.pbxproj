@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8B5975A32190BA73004EFAE5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5975A22190BA73004EFAE5 /* AppDelegate.swift */; };
-		8B5975A52190BA73004EFAE5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5975A42190BA73004EFAE5 /* ViewController.swift */; };
+		8B5975A52190BA73004EFAE5 /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B5975A42190BA73004EFAE5 /* MainViewController.swift */; };
 		8B5975A82190BA73004EFAE5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8B5975A62190BA73004EFAE5 /* Main.storyboard */; };
 		8B5975AB2190BA73004EFAE5 /* IslamicReminderz.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 8B5975A92190BA73004EFAE5 /* IslamicReminderz.xcdatamodeld */; };
 		8B5975AD2190BA74004EFAE5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8B5975AC2190BA74004EFAE5 /* Assets.xcassets */; };
@@ -18,7 +18,7 @@
 /* Begin PBXFileReference section */
 		8B59759F2190BA73004EFAE5 /* IslamicReminderz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = IslamicReminderz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B5975A22190BA73004EFAE5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		8B5975A42190BA73004EFAE5 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		8B5975A42190BA73004EFAE5 /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		8B5975A72190BA73004EFAE5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		8B5975AA2190BA73004EFAE5 /* IslamicReminderz.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = IslamicReminderz.xcdatamodel; sourceTree = "<group>"; };
 		8B5975AC2190BA74004EFAE5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				8B5975A22190BA73004EFAE5 /* AppDelegate.swift */,
-				8B5975A42190BA73004EFAE5 /* ViewController.swift */,
+				8B5975A42190BA73004EFAE5 /* MainViewController.swift */,
 				8B5975A62190BA73004EFAE5 /* Main.storyboard */,
 				8B5975AC2190BA74004EFAE5 /* Assets.xcassets */,
 				8B5975AE2190BA74004EFAE5 /* LaunchScreen.storyboard */,
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				8B5975A52190BA73004EFAE5 /* ViewController.swift in Sources */,
+				8B5975A52190BA73004EFAE5 /* MainViewController.swift in Sources */,
 				8B5975A32190BA73004EFAE5 /* AppDelegate.swift in Sources */,
 				8B5975AB2190BA73004EFAE5 /* IslamicReminderz.xcdatamodeld in Sources */,
 			);
